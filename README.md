@@ -1,4 +1,5 @@
 **zero_day**
+
 : *zero_day* is my first repository as full-stack engineer using **Vagrant**
 Steps I followed:
 : * Navigated to my home directory
